@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\source\\repos\\Employees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE00533-741A-4A72-B61F-5E4868687421}|Employees\\Employees.csproj|C:\\Users\\Owner\\source\\repos\\Employees\\employees\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CE00533-741A-4A72-B61F-5E4868687421}|Employees\\Employees.csproj|solutionrelative:employees\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE00533-741A-4A72-B61F-5E4868687421}|Employees\\Employees.csproj|c:\\users\\owner\\source\\repos\\employees\\employees\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE00533-741A-4A72-B61F-5E4868687421}|Employees\\Employees.csproj|solutionrelative:employees\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE00533-741A-4A72-B61F-5E4868687421}|Employees\\Employees.csproj|c:\\users\\owner\\source\\repos\\employees\\employees\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE00533-741A-4A72-B61F-5E4868687421}|Employees\\Employees.csproj|solutionrelative:employees\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE00533-741A-4A72-B61F-5E4868687421}|Employees\\Employees.csproj|c:\\users\\owner\\source\\repos\\employees\\employees\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE00533-741A-4A72-B61F-5E4868687421}|Employees\\Employees.csproj|solutionrelative:employees\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE00533-741A-4A72-B61F-5E4868687421}|Employees\\Employees.csproj|c:\\users\\owner\\source\\repos\\employees\\employees\\model\\statusfamily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE00533-741A-4A72-B61F-5E4868687421}|Employees\\Employees.csproj|solutionrelative:employees\\model\\statusfamily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\Employees\\Employees\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "Employees\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\Employees\\Employees\\EmployeeForm.cs [Design]",
+              "RelativeToolTip": "Employees\\EmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:28:29.191Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\Employees\\Employees\\EmployeeForm.Designer.cs",
+              "RelativeDocumentMoniker": "Employees\\EmployeeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\Employees\\Employees\\EmployeeForm.Designer.cs",
+              "RelativeToolTip": "Employees\\EmployeeForm.Designer.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAASwGgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:05:36.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\Employees\\Employees\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "Employees\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\Employees\\Employees\\EmployeeForm.cs",
+              "RelativeToolTip": "Employees\\EmployeeForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:34:02.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\Employees\\Employees\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Employees\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\Employees\\Employees\\Model\\Employee.cs",
+              "RelativeToolTip": "Employees\\Model\\Employee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:24:12.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusFamily.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\Employees\\Employees\\Model\\StatusFamily.cs",
+              "RelativeDocumentMoniker": "Employees\\Model\\StatusFamily.cs",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\Employees\\Employees\\Model\\StatusFamily.cs",
+              "RelativeToolTip": "Employees\\Model\\StatusFamily.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:34:07.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
